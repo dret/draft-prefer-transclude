@@ -133,7 +133,7 @@ Content-Type: application/prs.hal-forms+json
         <references title='Normative References'>
             <reference anchor='RFC7240'>
                 <front>
-                <title>Prefer Header for HTTP (RFC-7240)</title>
+                <title>Prefer Header for HTTP (RFC 7240)</title>
                 <author initials='J' surname='Snell' fullname='James Snell'>
                     <organization />
                 </author>
@@ -146,7 +146,7 @@ Content-Type: application/prs.hal-forms+json
             </reference>      
             <reference anchor='RFC2119'>
                 <front>
-                <title>RFC-2119</title>
+                <title>RFC 2119</title>
                 <author initials='S' surname='Bradner' fullname='Scott Bradner'>
                     <organization />
                 </author>
@@ -159,7 +159,7 @@ Content-Type: application/prs.hal-forms+json
             </reference>
             <reference anchor='RFC5988'>
                 <front>
-                <title>Web Linking (RFC-5988)</title>
+                <title>Web Linking (RFC 5988)</title>
                 <author initials='M' surname='Nottingham' fullname='Mark Nottingham'>
                     <organization />
                 </author>
